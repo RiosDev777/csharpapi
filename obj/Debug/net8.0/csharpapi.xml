@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>csharpapi</name>
+    </assembly>
+    <members>
+        <member name="M:api.Controllers.EntidadesController.Inicio">
+            <summary> 
+            Endpoint de la raíz de la API. 
+            Muestra un mensaje de bienvenida con información básica sobre la API. 
+            </summary> 
+            <returns>Un mensaje JSON con información de la API.</returns> 
+        </member>
+        <member name="M:api.Controllers.EntidadesController.Listar(System.String,System.String)">
+            <summary>
+            Obtiene todos los registros de una tabla específica en la base de datos.
+            </summary>
+        </member>
+        <member name="M:api.Controllers.EntidadesController.VerificarContrasena(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.String})">
+            <summary>
+            Verifica si la contraseña proporcionada coincide con la contraseña almacenada en la base de datos.
+            </summary>
+        </member>
+    </members>
+</doc>
