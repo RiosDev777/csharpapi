@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\APPANDWEBSERVICES\\csharpapi\\csharpapi.csproj": {}
+    "d:\\APPANDWEBSERVICES\\csharpapi\\csharpapi.csproj": {}
   },
   "projects": {
-    "D:\\APPANDWEBSERVICES\\csharpapi\\csharpapi.csproj": {
+    "d:\\APPANDWEBSERVICES\\csharpapi\\csharpapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APPANDWEBSERVICES\\csharpapi\\csharpapi.csproj",
+        "projectUniqueName": "d:\\APPANDWEBSERVICES\\csharpapi\\csharpapi.csproj",
         "projectName": "csharpapi",
-        "projectPath": "D:\\APPANDWEBSERVICES\\csharpapi\\csharpapi.csproj",
+        "projectPath": "d:\\APPANDWEBSERVICES\\csharpapi\\csharpapi.csproj",
         "packagesPath": "C:\\Users\\juang\\.nuget\\packages\\",
-        "outputPath": "D:\\APPANDWEBSERVICES\\csharpapi\\obj\\",
+        "outputPath": "d:\\APPANDWEBSERVICES\\csharpapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juang\\AppData\\Roaming\\NuGet\\NuGet.Config"
