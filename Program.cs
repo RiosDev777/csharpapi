@@ -16,16 +16,11 @@ builder.Services.AddSingleton<TokenService>(); // Registra el servicio TokenServ
  
 
 builder.Services.AddCors(options => // Configura CORS (Cross-Origin Resource Sharing) para la aplicación. 
-{dotgit  
-
+{
 options.AddPolicy("AllowAllOrigins", // Define una política de CORS llamada "AllowAllOrigins". 
-
 builder => builder.AllowAnyOrigin() // Permite solicitudes desde cualquier origen (dominio). 
-
 .AllowAnyMethod() // Permite cualquier método HTTP (GET, POST, etc.). 
-
 .AllowAnyHeader()); // Permite cualquier encabezado en las solicitudes. 
-
 }); 
 
  
